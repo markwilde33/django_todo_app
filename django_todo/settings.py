@@ -26,7 +26,8 @@ SECRET_KEY = '$yiwusa&=9pfgtvxk-y4#)gl6g-g(&4d6k&k_@w*jzc#@2v(4u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-practice-markwilde33.c9users.io']
+ALLOWED_HOSTS = ['django-practice-markwilde33.c9users.io',
+                 'taedae-django-lego-component.herokuapp.com']
 
 
 # Application definition
